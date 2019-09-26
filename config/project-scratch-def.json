@@ -1,6 +1,7 @@
 {
     "orgName": "Einstein Analytics Scratch Org",
     "description": "einsteinanalyticsscratch",
+    "edition": "Enterprise",
     "features": ["EinsteinAnalyticsPlus"],
     "settings": {
         "orgPreferenceSettings": {
