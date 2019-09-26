@@ -1,12 +1,12 @@
 {
     "orgName": "Einstein Analytics Scratch Org",
     "description": "einsteinanalyticsscratch",
+    "features": ["EinsteinAnalyticsPlus"],
     "settings": {
         "orgPreferenceSettings": {
             "s1DesktopEnabled": true,
             "s1EncryptedStoragePref2": false,
-            "selfSetPasswordInApi": true,
-            "EinsteinAnalyticsPlus": true
+            "selfSetPasswordInApi": true
       }
     }
 }
