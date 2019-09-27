@@ -1,8 +1,7 @@
 {
     "orgName": "Einstein Analytics Scratch Org",
     "description": "einsteinanalyticsscratch",
-    "edition": "Enterprise",
-    "features": ["EinsteinAnalyticsPlus"],
+    "template": "0TTB0000000anPU",
     "settings": {
         "orgPreferenceSettings": {
             "s1DesktopEnabled": true,
